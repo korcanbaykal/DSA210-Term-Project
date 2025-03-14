@@ -5,11 +5,15 @@ For a long time, I have been seeing news about the increase in air pollution and
 The plan is as follows: I will collect the annual number of factories from the provincial industrial status reports of the Ministry of Industry and Technology. At the same time I will collect 2 different harmful particle diameter(PM10, PM2.5) datas and 6 different chemical compound(SO2, CO, NO2, NOX, NO, O3) gases datas related with air pollution from the databank of the national air monitoring network of the Ministry of Environment, Urbanization and Climate Change. Finally, I will compare my informations and test my hypotheses.
 
 ## Data Collection
-  1.** Annual number of factories: ** Provincial industrial status reports of the Ministry of Industry and Technology
-      - I will collect each year's report and find the number of factory establishments per year.
-      - Example report of 2021: https://www.sanayi.gov.tr/plan-program-raporlar-ve-yayinlar/81-il-sanayi-durum-raporlari/mu1602011640
-  2.** Harmful particles and chemical compounds: ** databank of the national air monitoring network of the Ministry of Environment, Urbanization and Climate Change.
-      - 2 different harmful particle diameter(PM10, PM2.5) datas.
-      - 6 different chemical compound(SO2, CO, NO2, NOX, NO, O3) gases.
-      - Databanks address: https://sim.csb.gov.tr/STN/STN_Report/StationDataDownloadNew
+
+1. **Annual number of factories:**  
+   - Provincial industrial status reports of the Ministry of Industry and Technology  
+   - I will collect each year's report and find the number of factory establishments per year.  
+   - Example report of 2021: [Link](https://www.sanayi.gov.tr/plan-program-raporlar-ve-yayinlar/81-il-sanayi-durum-raporlari/mu1602011640)  
+
+2. **Harmful particles and chemical compounds:**  
+   - Databank of the national air monitoring network of the Ministry of Environment, Urbanization and Climate Change.  
+   - 2 different harmful particle diameters (PM10, PM2.5).  
+   - 6 different chemical compounds (SO2, CO, NO2, NOX, NO, O3).  
+   - [Databank address](https://sim.csb.gov.tr/STN/STN_Report/StationDataDownloadNew)  
       
