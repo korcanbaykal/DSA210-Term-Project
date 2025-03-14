@@ -35,4 +35,30 @@ There are many factories in the neighborhood where I live in Istanbul and around
 - **O3**: Tropospheric or ground-level ozone – what we breathe – is formed primarily from photochemical reactions between two major classes of air pollutants, volatile organic compounds and nitrogen oxides (NOx).(µg/m3)
 
 - **Number of factories per year**: Total number of factories in years.
+
+
+## Analysis Plan
+1. **Data Collection**
+   - Importing the number of factories into Excel records.
+   - Importing the chemical compounds into Excel records.
+   - Importing the Excel records into a Pandas DataFrame and process the data.
+
+2. **Visualization**
+   - Visiualizing the datas as:
+     - Correlation between number of factories in istanbul and chemical compounds.
+     - Correlation between season of the year and air quality
+    
+3. **Hypothesis Testing**
+   - Test hypotheses:
+     - The increase in the number of factories in Istanbul over the years has reduced the air quality in the regions where factories are located in that areas.
+     - Air quality in Istanbul is lower in cold months than in hot months.
+
+4. **Trend Analysis**
+   - Identifying peaks and plateus
+   - Analyze how air quality in istanbul is related to the number of factories.
+
+## Technologies and Tools
+- **Python:** For statistical analysis
+- **Pandas:** To process data
+- **Machine Learning Model:** Linear Regression
  
